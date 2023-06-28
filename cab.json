@@ -1,0 +1,50 @@
+{
+    "data": [
+        [
+             1,
+             111110,
+             "Soybean farming, field and seed production"
+        ],
+        [
+             2,
+             111120,
+             "Canola farming, field and seed production"
+        ],
+        [
+             3,
+             111120,
+             "Flaxseed farming, field and seed production"
+        ],
+        [
+             4,
+             111120,
+             "Mustard seed farming, field and seed production"
+        ],
+        [
+             5,
+             111120,
+             "Oilseed farming (except soybean), field and seed production"
+        ],
+        [
+             6,
+             111120,
+             "Rapeseed farming, field and seed production"
+        ],
+        [
+             7,
+             111120,
+             "Safflower farming, field and seed production"
+        ],
+        [
+             8,
+             111120,
+             "Sesame farming, field and seed production"
+        ],
+        [
+             9,
+             11120,
+             "Sunflower farming, field and seed production"
+        ]
+]
+
+}
